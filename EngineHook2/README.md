@@ -22,6 +22,6 @@ Uses and modifies code from https://github.com/OrfeasZ/ZHMTools
 
 ## Credits:
 * Orfeaz aka NoFaTe - ZHMTools & ResourceLib & NavWeakness lib - https://github.com/OrfeasZ
-* Anthony Fuller - NavWeakness lib - https://github.com/AnthonyFuller
+* Anthony Fuller - ResourceLib & NavWeakness lib - https://github.com/AnthonyFuller
 * Pavle - Hook projects - https://github.com/pavledev
 * IOI - https://ioi.dk/
