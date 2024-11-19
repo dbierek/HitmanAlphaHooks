@@ -16,3 +16,4 @@ bld/
 *build*
 *output*
 EngineHook2/
+*enc_temp*/
