@@ -10,5 +10,4 @@ These projects add some hooks to run functions from the Hitman 2015 Alpha code
 * Orfeaz aka NoFaTe - ZHMTools & ResourceLib & NavWeakness lib - https://github.com/OrfeasZ
 * Anthony Fuller - NavWeakness & ResourceLib lib - https://github.com/AnthonyFuller
 * Pavle - Hook projects - https://github.com/pavledev
-* Notex - ResourceLib - https://github.com/Notexe
 * IOI - https://ioi.dk/
