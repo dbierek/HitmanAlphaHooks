@@ -2,7 +2,7 @@
 
 This project adds some hooks to run functions from the Hitman 2015 Alpha code.
 
-*Note: This project is a work in progress. It is a tool simplify experimenting with the Alpha code with the goal of understanding how to generate the reasoning grid, and learn more about how the Alpha code works. It currently does not successfully generate a reasoning grid, it just calls the GenerateGrid function. More research will need to be done to know how to set the needed parameters and variables.*
+*Note: This project is a work in progress. It is a tool to simplify experimenting with the Alpha code with the goal of understanding how to generate the reasoning grid, and to learn more about how the Alpha code works. It currently does not successfully generate a reasoning grid, it just calls the GenerateGrid function. More research will need to be done to know how to set the needed parameters and variables.*
 
 ## Usage and Debugging
 1. Open the solution in Visual Studio.
